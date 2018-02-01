@@ -1,0 +1,31 @@
+By Ofek Eshet, (I need help, English not very got, English 10/10).
+ 
+simulation documentation.
+
+Joystick-
+
+Buttons-
+	‘Y’ - Changing gear: fast: second, slow: first.
+	‘A’ - A new floating view (window) will spawn on the screen, the view will show one of the following cameras depend on the robot (red or blue): its own front camera, one of the three team driver stations cameras, the camera view follow the robot.
+	‘X’ - If pressed near a portal of your color a cub will spawn.
+	‘LB’ - If the robot is near a cube, the robot will crab the cube.
+	‘RB’ - If the robot hold a cube, it will release the cube in the air so the cube can fall into the big scale, if the robot is near one of the two side scales, it will release the cube inside the closest scale.
+	Pov left - If robot hold a cube then throw a cube left.
+	Pov right - If robot hold a cube then throw a cube right.
+Axes
+        	Left axe:      	
+                    	 front -  arcade - none.
+                    	side - arcade drive and set the rotation of the robot.
+        	Right axe:
+                    	front - arcade - set the move power.
+                    	side - none.
+Vrep
+ 	starting the simulation by press the big triangular button in the upper part of the screen.
+	stopping or resetting the simulation by pressing the big square.
+	If the simulation dosent detecting the joystick, then reopen the simulation (vrep).
+	Changing base camera location
+	X and y location by pressing on the camera pan button in the upper left side of the screen, part of the screen, and after it you can move the camera by moving the mouse after pressing the left mouse button.
+	The angle of the camera: pressing the camera rotate button in the upper left side of the screen, and changing the angle by moving the mouse after pressing the left mouse button, the rotation will accrue around the pressing place in the simulation.
+ 
+
+
