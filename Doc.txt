@@ -8,10 +8,11 @@ Buttons-
 	‘Y’ - Changing gear: fast: second, slow: first.
 	‘A’ - A new floating view (window) will spawn on the screen, the view will show one of the following cameras depend on the robot (red or blue): its own front camera, one of the three team driver stations cameras, the camera view follow the robot.
 	‘X’ - If pressed near a portal of your color a cub will spawn.
+	'B'- pressing B is changing the state of the gripper - close or opened.
 	‘LB’ - If the robot is near a cube, the robot will crab the cube.
 	‘RB’ - If the robot hold a cube, it will release the cube in the air so the cube can fall into the big scale, if the robot is near one of the two side scales, it will release the cube inside the closest scale.
-	Pov left - If robot hold a cube and is on the white area of his robot then throw a cube left.
-	Pov right - If robot hold a cube and is on the white area of his robot then throw a cube right.
+	Pov left - If robot hold a cube then throw a cube left.
+	Pov right - If robot hold a cube then throw a cube right.
 	Pov up- If robot hold a cube then leave the cube in a forword position.
 	Pov down- If robot hold a cube then leave the cube in a backword position.
 Axes
